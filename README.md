@@ -1,1 +1,1 @@
-# exoplanets_data
+Dataset containing confirmed exoplanets.
